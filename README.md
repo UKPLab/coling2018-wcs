@@ -21,7 +21,7 @@ https://www.tu-darmstadt.de/
 
 > This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
-Follow the steps below to reproduce our results.
+Follow the steps below to reproduce our results. Don't hesitate to contact us if you have further questions or encounter problems.
 
 ## Resources
 
