@@ -29,9 +29,9 @@ First, get the resources.
 
 1. VerbNet 3.3 (http://verbs.colorado.edu/verb-index/vn/verbnet3.3.zip)
 2. WordNet 3.1 (http://wordnetcode.princeton.edu/wn3.1.dict.tar.gz)
-3. SimLex-999 (http://www.leviants.com/ira.leviant/SimLex\_ALL\_Langs\_TXT\_Format.zip)
+3. SimLex-999 (http://www.leviants.com/ira.leviant/SimLex_ALL_Langs_TXT_Format.zip)
 4. SimVerb-3500 (http://people.ds.cam.ac.uk/dsg40/paper/simverb/simverb-3500-data.zip)
-5. Our embeddings (http://public.ukp.informatik.tu-darmstadt.de/coling2018\_wcs/wcs\_coling2018\_emb.zip)
+5. Our embeddings (http://public.ukp.informatik.tu-darmstadt.de/coling2018_wcs/wcs_coling2018_emb.zip)
 
 Unzip everything and put into corresponding folders under `./resources` so that you get the following:
 
@@ -40,7 +40,7 @@ resources
 ..verbnet3.3
 ..wn3.1
 ..benchmarks
-....SimLex\_ALL\_Langs\_TXT\_Format
+....SimLex_ALL_Langs_TXT_Format
 ....SimVerb-3500
 ..embeddings
 ....our embedding files
