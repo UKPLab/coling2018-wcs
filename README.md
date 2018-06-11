@@ -1,4 +1,4 @@
-# Word Class Suggestion Demo
+# Word Class Suggestion
 
 This repository hosts support code for the paper "From Text to Lexicon: Bridging the Gap between Word Embeddings and Lexical Resources". Please cite the following work:
 
