@@ -1,6 +1,6 @@
 import codecs
-simlex_new = "/home/kuznetsov/Resources/corpora/similarity/SimLex_ALL_Langs_TXT_Format/MSimLex999_English.txt"
-simlex_original = "/home/kuznetsov/Resources/corpora/similarity/SimLex-999/SimLex-999.txt"
+simlex_new = "../resources/benchmarks/SimLex_ALL_Langs_TXT_Format/MSimLex999_English.txt"
+simlex_original = "../resources/benchmarks/SimLex-999/SimLex-999.txt"
 
 def simlex_to_tsv(simlex_new, simlex_original):
 	pos_info = {}
