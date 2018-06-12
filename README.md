@@ -49,13 +49,13 @@ resources
 
 The code has been tested on python 2.7.13. We use some 3rd party libraries, but nothing exotic:
 
-* numpy (1.13.3)
-* scipy (1.0.0)
-* sklearn (0.18.1)
-* pandas (0.20.3)
-* gensim (2.2.0)
-* seaborn (0.7.1)
-* matplotlib (2.0.2)
+* pandas==0.20.3
+* scipy==1.0.0
+* gensim==2.2.0
+* matplotlib==2.0.2
+* numpy==1.13.3
+* seaborn==0.8.1
+* scikit_learn==0.19.1
 
 ## Running the experiments
 
