@@ -47,7 +47,7 @@ resources
 
 ## Dependencies
 
-The code has been tested on python 2.7.13. We use some 3rd party libraries, but nothing exotic:
+The code has been tested on python 2.7.13 (Anaconda). We use some 3rd party libraries, but nothing exotic:
 
 * pandas==0.20.3
 * scipy==1.0.0
@@ -56,6 +56,8 @@ The code has been tested on python 2.7.13. We use some 3rd party libraries, but 
 * numpy==1.13.3
 * seaborn==0.8.1
 * scikit_learn==0.19.1
+
+Feel free to _pip install -r requirements.txt_
 
 ## Running the experiments
 
