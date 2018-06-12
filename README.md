@@ -28,7 +28,8 @@ First, get the resources.
 
 1. VerbNet 3.3 (http://verbs.colorado.edu/verb-index/vn/verbnet3.3.zip)
 2. WordNet 3.1 (http://wordnetcode.princeton.edu/wn3.1.dict.tar.gz)
-3. SimLex-999 (http://www.leviants.com/ira.leviant/SimLex_ALL_Langs_TXT_Format.zip)
+3. New SimLex-999 (http://www.leviants.com/ira.leviant/SimLex_ALL_Langs_TXT_Format.zip)
+   * Minor preprocessing is needed, use the script in _etc.py_ and the original SimLex-999 (https://www.cl.cam.ac.uk/~fh295/SimLex-999.zip)
 4. SimVerb-3500 (http://people.ds.cam.ac.uk/dsg40/paper/simverb/simverb-3500-data.zip)
 5. Our embeddings (http://public.ukp.informatik.tu-darmstadt.de/coling2018_wcs/wcs_coling2018_emb.zip)
 
