@@ -1,6 +1,6 @@
 # Word Class Suggestion
 
-This repository hosts support code for the paper "From Text to Lexicon: Bridging the Gap between Word Embeddings and Lexical Resources", Ilia Kuznetsov and Iryna Gurevych, to appear in COLING 2018. Please cite the following work:
+This repository hosts support code for the paper "From Text to Lexicon: Bridging the Gap between Word Embeddings and Lexical Resources", Ilia Kuznetsov and Iryna Gurevych (COLING-2018). If you build upon this work, please use the following citation:
 
 ```
 @inproceedings{kuznetsov-gurevych-2018-text,
