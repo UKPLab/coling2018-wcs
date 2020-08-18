@@ -3,7 +3,18 @@
 This repository hosts support code for the paper "From Text to Lexicon: Bridging the Gap between Word Embeddings and Lexical Resources", Ilia Kuznetsov and Iryna Gurevych, to appear in COLING 2018. Please cite the following work:
 
 ```
-bibtex upon publication
+@inproceedings{kuznetsov-gurevych-2018-text,
+    title = "From Text to Lexicon: Bridging the Gap between Word Embeddings and Lexical Resources",
+    author = "Kuznetsov, Ilia  and
+      Gurevych, Iryna",
+    booktitle = "Proceedings of the 27th International Conference on Computational Linguistics",
+    month = aug,
+    year = "2018",
+    address = "Santa Fe, New Mexico, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/C18-1020",
+    pages = "233--244",
+}
 ```
 
 > **Abstract:**
